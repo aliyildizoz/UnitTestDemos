@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users>
+  <User name="Salih" phoneNumber="3541235486464" email="salih@goliq.com"/>
+  <User name="Ali ahmet" phoneNumber="6845646398687" email="ali@abc.com"/>
+  <User name="Ahmet" phoneNumber="2127424042074" email="veli@abc.com"/>
+  <User name="Mehmet" phoneNumber="9786534120010" email="veli@abc.com"/>
+  <User name="Berk" phoneNumber="0120748327244" email="veli@abc.com"/>
+  <User name="Murat" phoneNumber="6934527865210" email="veli@abc.com"/>
+  <User name="Engin" phoneNumber="7867832045104" email="veli@abc.com"/>
+  <User name="Ali mehmet" phoneNumber="7867832045104" email="veli@abc.com"/>
+</Users>
